@@ -1,3 +1,7 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
 @media (min-width: 780px) {
     img {
       margin: 20px;
