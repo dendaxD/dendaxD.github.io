@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="container" style="padding: 80px">
+<div class="container" style="padding: 20%">
   <i>
   Here's my bachelor thesis: <a href="documents/denda_bakalarka.pdf">Quantum Teleportation and it's application</a>. 
 </i>

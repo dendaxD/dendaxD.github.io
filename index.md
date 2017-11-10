@@ -5,8 +5,8 @@
 layout: default
 ---
 <div class="row">
-  <div class="col-md-4 vertical-line" style="text-align:center">
-    <img src="/img/dendaxd.png" width="70%">
+  <div class="col-md-4 vertical-line resize" style="text-align:center">
+    <img src="/img/dendaxd.png">
     <h2>Denisa Lampášová</h2>
     student of Theoretical Physics in Bratislava<br>
     java developer in PosAm<br>
