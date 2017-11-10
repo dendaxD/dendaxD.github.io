@@ -11,7 +11,7 @@
     width: 70%; }
 
   footer {
-    padding: 25px; }
+    padding: 30px; }
 
   body {
     padding-bottom: 80px; }
@@ -43,7 +43,8 @@
     width: 40%; }
 
   footer {
-    padding: 45px; }
+    padding: 45px;
+    height: 15%; }
 
   body {
     padding-bottom: 120px; } }
