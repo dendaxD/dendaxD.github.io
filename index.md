@@ -6,13 +6,13 @@ layout: default
 ---
 <div class="row">
   <div class="col-md-4 vertical-line" style="text-align:center">
-    <img src="/img/dendaxd.png" width="220px">
+    <img src="/img/dendaxd.png" width="70%">
     <h2>Denisa Lampášová</h2>
     student of Theoretical Physics in Bratislava<br>
     java developer in PosAm<br>
     organizer of FKS
   </div>
-  <div class="col-md-8" style="padding:20px; padding-left: 50px">
+  <div class="col-md-8" style="padding:2%; padding-left: 4%">
   <i>
    <div class="row">
   <h3>I am...</h3>
