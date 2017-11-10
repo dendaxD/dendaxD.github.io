@@ -46,7 +46,7 @@
 
   footer {
     padding: 25px;
-    height: 20%; }
+    height: 20% !important; }
 
   body {
     padding-bottom: 120px; } }
