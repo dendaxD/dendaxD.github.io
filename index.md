@@ -8,11 +8,11 @@ layout: default
   <div class="col-md-4 vertical-line resize" style="text-align:center">
     <img src="/img/dendaxd.png">
     <h2>Denisa Lampášová</h2>
-    student of Theoretical Physics in Bratislava<br>
-    java developer in PosAm<br>
+    student of Theoretical Physics<br>
+    (at FMFI UK in Bratislava)<br>
     organizer of FKS
   </div>
-  <div class="col-md-8" style="padding:2%; padding-left: 4%">
+  <div class="col-md-8" style="padding:2%; padding-left: 4%; text-align: justify;">
   <i>
    <div class="row">
   <h3>I am...</h3>

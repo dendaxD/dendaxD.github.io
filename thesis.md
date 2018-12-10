@@ -4,6 +4,6 @@ layout: default
 
 <div class="container" style="padding: 15%">
   <i>
-  Here's my bachelor thesis: <a href="documents/denda_bakalarka.pdf">Quantum Teleportation and it's application</a>. 
+  My Bachelor's thesis: <a href="documents/DendasBachelorThesis.pdf">Quantum teleportation and its applications</a> 
 </i>
 </div>
