@@ -17,14 +17,13 @@ layout: default
    <div class="row">
   <h3>I am...</h3>
   </div>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    <script type="text/javascript">
+   $('i#replace').html('this text isn\'t italicized either . . . ');
+</script>
   <div class="row">
-  Enthusiastic and passionate person with a deep interest in understanding the world and life.
-  One of the reasons which brought me to physics and FKS.
-  My interest lies also in chemistry, biology, psychology, theology and informatics.
+  <span>An enthusiastic and passionate person who would love for this webpage in the long run to become a useful source of materials. Currently, it's purely a quick link for my CV and bachelor's thesis. But it is soon to be changed. Have a beautiful day, dear reader <i id="replace">&#128578</i>.</span>
   </div>
-  <div class="row">
-  At the moment, I mostly enjoy my yoga lessons, reading Prattchet's Discworld series, playing the guitar and school semester with really good lessons. Most often by enjoying a good cup of tea.
-  </div> 
   
   </i>
   </div>
