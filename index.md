@@ -22,7 +22,7 @@ layout: default
    $('i#replace').html('this text isn\'t italicized either . . . ');
 </script>
   <div class="row">
-  <span>An enthusiastic and passionate person who would love for this webpage in the long run to become a useful source of materials. Currently, it's purely a quick link for my CV and bachelor's thesis. But it is soon to be changed. Have a beautiful day, dear reader <i id="replace">:)</i>.</span>
+  <span>An enthusiastic and passionate person who would love for this webpage in the long run to become a useful source of materials. Currently, it's purely a quick link for my CV, Bachelor's and Master's thesis. But it is soon to be changed. Have a beautiful day, dear reader <i id="replace">:)</i>.</span>
   </div>
   
   </i>
